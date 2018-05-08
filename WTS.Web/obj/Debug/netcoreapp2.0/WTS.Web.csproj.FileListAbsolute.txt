@@ -1,0 +1,11 @@
+C:\Users\KKULA\source\repos\WTS\WTS.Web\bin\Debug\netcoreapp2.0\WTS.Web.deps.json
+C:\Users\KKULA\source\repos\WTS\WTS.Web\bin\Debug\netcoreapp2.0\WTS.Web.runtimeconfig.json
+C:\Users\KKULA\source\repos\WTS\WTS.Web\bin\Debug\netcoreapp2.0\WTS.Web.runtimeconfig.dev.json
+C:\Users\KKULA\source\repos\WTS\WTS.Web\bin\Debug\netcoreapp2.0\WTS.Web.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Web\bin\Debug\netcoreapp2.0\WTS.Web.pdb
+C:\Users\KKULA\source\repos\WTS\WTS.Web\obj\Debug\netcoreapp2.0\WTS.Web.csprojResolveAssemblyReference.cache
+C:\Users\KKULA\source\repos\WTS\WTS.Web\obj\Debug\netcoreapp2.0\WTS.Web.csproj.CoreCompileInputs.cache
+C:\Users\KKULA\source\repos\WTS\WTS.Web\obj\Debug\netcoreapp2.0\WTS.Web.AssemblyInfoInputs.cache
+C:\Users\KKULA\source\repos\WTS\WTS.Web\obj\Debug\netcoreapp2.0\WTS.Web.AssemblyInfo.cs
+C:\Users\KKULA\source\repos\WTS\WTS.Web\obj\Debug\netcoreapp2.0\WTS.Web.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Web\obj\Debug\netcoreapp2.0\WTS.Web.pdb

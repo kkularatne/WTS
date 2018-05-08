@@ -1,0 +1,17 @@
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.Tests.deps.json
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.Tests.runtimeconfig.json
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.Tests.runtimeconfig.dev.json
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.Tests.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.csprojResolveAssemblyReference.cache
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.AssemblyInfoInputs.cache
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.AssemblyInfo.cs
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.Tests.pdb
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\bin\Debug\netcoreapp2.0\WTS.pdb
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.csproj.CopyComplete
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.dll
+C:\Users\KKULA\source\repos\WTS\WTS.Tests\obj\Debug\netcoreapp2.0\WTS.Tests.pdb

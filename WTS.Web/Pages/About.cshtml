@@ -1,0 +1,56 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+
+<p>Use this area to provide additional information.</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Employee ID
+            </th>
+            <th>
+                Full Name
+            </th>
+            <th>
+                Year
+            </th>
+            <th>
+                Month
+            </th>
+            <th>
+                Hours
+            </th>
+       </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model.employeeDtos)
+        {
+             @foreach (var shift in employee.shifts)
+             {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => employee.EmployeeID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => employee.FullName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => shift.year)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => shift.month)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => shift.NoOfHours)
+                    </td>
+                </tr>
+             }
+
+
+        }
+    </tbody>
+</table>
